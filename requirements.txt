@@ -1,0 +1,3 @@
+ipyvolume==0.5.1
+numpy-stl==2.10.1
+ipyupload==0.1.3
