@@ -1,0 +1,9 @@
+name: voila-gallery-render-stl
+channels:
+- conda-forge
+dependencies:
+- ipyvolume=0.5.2
+- ipywidgets=7.5.0
+- numpy-stl=2.10.1
+- voila=0.1.6
+
